@@ -1,0 +1,10 @@
+[Plugin]
+Name = Announcements
+Version = 1.0.0
+License = MIT
+URL = https://github.com/aaronchantrill/naomi_announcements.git
+Description = Naomi makes announcements at scheduled times
+
+[Author]
+Name = Aaron Chantrill
+URL = https://github.com/aaronchantrill/

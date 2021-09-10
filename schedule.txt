@@ -1,0 +1,13 @@
+#   Announcement schedule
+#   min - minute       - 0-59
+#   hr  - hour         - 0-23
+#   dom - day of month - 0-31
+#   mon - month        - 0-12
+#   dow - day of week  - 0-6 (Sunday - Saturday)
+#   min hr  dom mon dow announcement
+    0   10  *   *   1-5 "Time to take a break"
+    0   12  *   *   1-5 "Time for lunch"
+    30  14  *   *   1-5 "Time to take a break"
+    10  16  *   *   1-5 "It's after four, time to start cleaning up and getting ready to leave"
+    30  16  *   *   1-5 "Go home"
+    
